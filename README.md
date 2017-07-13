@@ -1,2 +1,2 @@
 # hello-world
-FIRST REPOSITORY
+Trying to learn
